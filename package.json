@@ -14,11 +14,18 @@
     "less-middleware": "1.0.x",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
-    "angular":"~1.5",
-    "angular-route":"~1.5",
-    "angular-sanitize":"~1.5",
-    "angular-messages":"~1.5",
-    "angular-resource":"~1.5",
-    "underscore": "~1.8.3"
+    "angular": "~1.5",
+    "angular-route": "~1.5",
+    "angular-sanitize": "~1.5",
+    "angular-messages": "~1.5",
+    "angular-resource": "~1.5",
+    "underscore": "~1.8.3",
+    "karma": "~0.12",
+    "karma-chrome-launcher": "~2.0.0",
+    "karma-jasmine": "~1.1.0",
+    "jasmine-core": "~2.5.2"
+  },
+  "devDependencies": {
+    "karma-requirejs": "^1.1.0"
   }
 }
